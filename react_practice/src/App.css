@@ -1,6 +1,5 @@
-div{
-  margin-top: 10vh;
-  text-align: center;
-  font-size: 5vh;
-  font-weight: 600;
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }

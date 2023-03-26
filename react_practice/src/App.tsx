@@ -1,12 +1,13 @@
 import './App.css'
+import Navbar from './components/Navbar';
 
 function App() {
 
   return (
     <div className="App">
-      This is React Test
+      <Navbar title='test' />
     </div>
   )
 }
 
-export default App
+export default App;
